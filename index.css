@@ -5,7 +5,7 @@
   font-family: Inter;
 }
 body {
-  background: url(/images/backgound.png);
+  background: url(./images/backgound.png);
   background-size: cover;
 }
 .container {
